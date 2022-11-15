@@ -2,6 +2,18 @@
 
 This repository contains the general information about the Eurobot 2023 competition.
 
+## Rules
+
+Rules can be found [here](https://www.coupederobotique.fr/wp-content/uploads/Eurobot2023_Rules_EN_FINALE.pdf).
+
+## Strategy
+
+1. Optimize the robot for cherry picking & dropping in the basket
+2. If 1 works reliably, optimize for cake "pushing"
+3. If 2 works reliably, optimize for cherry on cake.
+4. If 3 works reliably, optimize for cake layer order.
+5. If 4 works reliably, start working on a second robot optimized for cherry picking & dropping in the basket.
+
 ## Scoring points
 
 Ways to score points :
