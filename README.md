@@ -34,6 +34,91 @@ Ways to score points :
 * Bonus :
   * 20 points max if points estimation is correct (for example, you say you'll make 35 points but you only make 30, you will win 20-(35-30) (so 15) bonus points)
 
+## Milestones
+
+### Milestone 1
+
+#### **Rolling basis**
+
+* Go straight on
+* Be able to go where we want given a position
+* Empty the ball
+
+#### **Basket prototype**
+
+* Mechanical
+* Electronic
+* No so much into the programming thing
+
+#### **Analyse**
+
+* Analyse all the mechanical part
+  * How pick up the cherries ?
+  * Analyse the space to store the cakes
+  * ...
+* Analyse the software based on ROS, cur our software into severals works to analyse how we will do in the high level
+
+#### **ROS**
+
+* Draw a ROS architecture
+  * Bloc diagram of the high level code including ROS
+
+### Milestone 2
+
+#### **Basket**
+
+* The basket is able to count the number of cherry contained inside of it
+
+#### **Robot**
+
+* The robot is able to pick up the cherries
+* Knowing how to find your way around the set
+* Push the cakes inside the plates
+* Install camera + color detector
+
+### Milestone 3
+
+* To dress up the robot
+* Sort cakes in the right order and add cherry at the top
+* Focus on the software intelligence
+  * Include game strategy
+* Display the score
+  * At start, the score will be estimated so no communication with the basket
+
+### Milestone 4
+
+* Verification + integration
+* Testing the features
+* Calcul the final score
+  * Implement communication between the robot and the basket using a solid radio communication
+* Prepare speech for the victory
+
+## Competences
+
+### Quentin
+
+* 3D mechanical design
+* Team management
+* Software high level
+
+### Alex
+
+* Software low + high level
+* Electronic
+
+### Fred
+
+* Electronic
+* Manufactoring
+* 3D mechanical design
+* Software low + high level
+
+### Théo
+
+* Software low + high level
+* Electronic
+* Regulation
+
 ## Acknowledgements
 
 Proudly made by Alexandre Borbolla, Frédéric Druppel, Théo Engels, Quentin Jadoul
