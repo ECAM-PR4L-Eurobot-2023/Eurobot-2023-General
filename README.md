@@ -50,13 +50,13 @@ Ways to score points :
 * Electronic
 * No so much into the programming thing
 
-#### **Analyse**
+#### **Analyze**
 
-* Analyse all the mechanical part
+* Analyze all the mechanical part
   * How pick up the cherries ?
-  * Analyse the space to store the cakes
+  * Analyze the space to store the cakes
   * ...
-* Analyse the software based on ROS, cur our software into severals works to analyse how we will do in the high level
+* Analyze the software based on ROS, cur our software into severals works to analyze how we will do in the high level
 
 #### **ROS**
 
@@ -89,7 +89,7 @@ Ways to score points :
 
 * Verification + integration
 * Testing the features
-* Calcul the final score
+* Calculate the final score
   * Implement communication between the robot and the basket using a solid radio communication
 * Prepare speech for the victory
 
@@ -109,7 +109,7 @@ Ways to score points :
 ### Fred
 
 * Electronic
-* Manufactoring
+* Manufacturing
 * 3D mechanical design
 * Software low + high level
 
@@ -121,7 +121,7 @@ Ways to score points :
 
 ## Acknowledgements
 
-Proudly made by Alexandre Borbolla, Frédéric Druppel, Théo Engels, Quentin Jadoul
+Proudly made by Alejandro Borbolla, Frédéric Druppel, Théo Engels, Quentin Jadoul
 
 Made with ❤️, lots of ☕️, and lack of 🛌  
 Published under CreativeCommons BY-NC-SA 4.0
