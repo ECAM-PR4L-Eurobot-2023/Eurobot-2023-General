@@ -119,6 +119,76 @@ Ways to score points :
 * Electronic
 * Regulation
 
+## ROS Topics
+
+### Flash McQueen
+
+#### Messages
+
+Get the speed measured of the motors.
+
+```
+topic: /motor/speed-measured/get
+structure: 
+  speed: float
+```
+
+Get the current position of the motors.
+
+```
+topic: /motor/position-current/get
+structure:
+  position: float /**/
+```
+
+Get the speed setpoint configured.
+
+```
+topic: /motor/speed-setpoint/get
+structure: 
+  speed: float
+```
+
+Get the position setpoint of the motors.
+
+```
+topic: /motor/position-setpoint/get
+structure: 
+  position: float
+```
+
+Urgency stop occured.
+
+```
+topic: /motor/urgency-stop
+structure:
+  reason: int
+```
+
+Set the parameters of the PID ($K_P$, $K_I$, and $K_D$).
+
+```
+topic: /motor/PID/set
+structure:
+  Kp: float
+  Ki: float
+  Kd: float
+```
+
+#### Services
+
+Get the parameters of the PID ($K_P$, $K_I$, and $K_D$).
+
+```
+topic: /motor/PID/get
+request:
+  <empty>
+response:
+  Kp: float
+  Ki: float
+  Kd: float
+```
+
 ## Acknowledgements
 
 Proudly made by Alejandro Borbolla, Frédéric Druppel, Théo Engels, Quentin Jadoul
